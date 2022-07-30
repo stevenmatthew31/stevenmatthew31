@@ -18,7 +18,7 @@ I am trained with **Machine Learning** especially **TensorFlow** and equipped wi
 - [Certification from Dicoding "Belajar Dasar Git dengan GitHub"](https://www.dicoding.com/certificates/JLX13Y9NJP72)
 - [Certification from Dicoding "Memulai Pemrograman Dengan Python"](https://www.dicoding.com/certificates/NVP71DY8GPR0)
 
-If you are interested in me and want to contact me on my [LinkedIn](https://www.linkedin.com/in/steven-matthew-4969631ab/).
+If you are interested in me, you can contact me on my [LinkedIn](https://www.linkedin.com/in/steven-matthew-4969631ab/).
 
 <p align="left">
 <a href="https://github.com/stevenmatthew31">
