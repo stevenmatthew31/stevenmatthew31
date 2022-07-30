@@ -2,6 +2,7 @@
 ---
 
 Hi, My name is **Steven Matthew G**.
+
 I am trained with **Machine Learning** especially **TensorFlow** and equipped with:
 
 - [Certification from TensorFlow "TensorFlow Developer Certificate"](https://www.credential.net/ac033694-f1a7-45db-bab7-ed960287085b#gs.78b42w)
